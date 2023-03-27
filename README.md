@@ -5,3 +5,6 @@
 
 ## My Github Page
 If you like it, you can fork it to your warehouse for your own use. Follow the BSD open-source license.
+
+### Referenced source code
+>[Vno Jekyll Themes](https://github.com/onevcat/vno-jekyll) and [home.github.io](https://github.com/dmego/home.github.io/)
